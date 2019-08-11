@@ -1,4 +1,4 @@
-# ShockDetectionBLEapplication
+# Abbreviations
 
 BLE - bluetooth low energy
 
